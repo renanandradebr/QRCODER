@@ -73,8 +73,7 @@ export default defineComponent({
 
 .cardlogin {
   border: solid rgb(54, 54, 216) 2px;
-  padding: 16px;
-  margin-top: 50%;
+  padding: 19px;
 }
 
 .botaologin {

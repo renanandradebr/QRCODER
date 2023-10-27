@@ -40,7 +40,7 @@ export default {
   methods: {
     submitForm() {
       // Implemente aqui a lógica para enviar os dados
-      console.log('Matrícula:', this.matricula);
+      //console.log('Matrícula:', this.matricula);
       console.log('Nome:', this.nome);
       console.log('Setor:', this.setor);
       console.log('CPF:', this.cpf);
